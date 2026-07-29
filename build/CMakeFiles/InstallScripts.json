@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/gould/SLAM/temp/0.4/build/cmake_install.cmake",
+		"/home/gould/SLAM/temp/0.4/build/src/cmake_install.cmake",
+		"/home/gould/SLAM/temp/0.4/build/test/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

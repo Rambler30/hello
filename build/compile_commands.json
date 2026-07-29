@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/home/gould/SLAM/temp/0.4/build",
+  "command": "g++ -Dmyslam_EXPORTS -I/usr/include/eigen3 -I/home/gould/SLAM/temp/0.4/include -isystem /usr/include/opencv4 -std=c++11 -march=native -O3 -O3 -DNDEBUG -fPIC -o src/CMakeFiles/myslam.dir/frame.cpp.o -c /home/gould/SLAM/temp/0.4/src/frame.cpp",
+  "file": "/home/gould/SLAM/temp/0.4/src/frame.cpp",
+  "output": "/home/gould/SLAM/temp/0.4/build/src/CMakeFiles/myslam.dir/frame.cpp.o"
+},
+{
+  "directory": "/home/gould/SLAM/temp/0.4/build",
+  "command": "g++ -Dmyslam_EXPORTS -I/usr/include/eigen3 -I/home/gould/SLAM/temp/0.4/include -isystem /usr/include/opencv4 -std=c++11 -march=native -O3 -O3 -DNDEBUG -fPIC -o src/CMakeFiles/myslam.dir/mappoint.cpp.o -c /home/gould/SLAM/temp/0.4/src/mappoint.cpp",
+  "file": "/home/gould/SLAM/temp/0.4/src/mappoint.cpp",
+  "output": "/home/gould/SLAM/temp/0.4/build/src/CMakeFiles/myslam.dir/mappoint.cpp.o"
+},
+{
+  "directory": "/home/gould/SLAM/temp/0.4/build",
+  "command": "g++ -Dmyslam_EXPORTS -I/usr/include/eigen3 -I/home/gould/SLAM/temp/0.4/include -isystem /usr/include/opencv4 -std=c++11 -march=native -O3 -O3 -DNDEBUG -fPIC -o src/CMakeFiles/myslam.dir/map.cpp.o -c /home/gould/SLAM/temp/0.4/src/map.cpp",
+  "file": "/home/gould/SLAM/temp/0.4/src/map.cpp",
+  "output": "/home/gould/SLAM/temp/0.4/build/src/CMakeFiles/myslam.dir/map.cpp.o"
+},
+{
+  "directory": "/home/gould/SLAM/temp/0.4/build",
+  "command": "g++ -Dmyslam_EXPORTS -I/usr/include/eigen3 -I/home/gould/SLAM/temp/0.4/include -isystem /usr/include/opencv4 -std=c++11 -march=native -O3 -O3 -DNDEBUG -fPIC -o src/CMakeFiles/myslam.dir/camera.cpp.o -c /home/gould/SLAM/temp/0.4/src/camera.cpp",
+  "file": "/home/gould/SLAM/temp/0.4/src/camera.cpp",
+  "output": "/home/gould/SLAM/temp/0.4/build/src/CMakeFiles/myslam.dir/camera.cpp.o"
+},
+{
+  "directory": "/home/gould/SLAM/temp/0.4/build",
+  "command": "g++ -Dmyslam_EXPORTS -I/usr/include/eigen3 -I/home/gould/SLAM/temp/0.4/include -isystem /usr/include/opencv4 -std=c++11 -march=native -O3 -O3 -DNDEBUG -fPIC -o src/CMakeFiles/myslam.dir/config.cpp.o -c /home/gould/SLAM/temp/0.4/src/config.cpp",
+  "file": "/home/gould/SLAM/temp/0.4/src/config.cpp",
+  "output": "/home/gould/SLAM/temp/0.4/build/src/CMakeFiles/myslam.dir/config.cpp.o"
+},
+{
+  "directory": "/home/gould/SLAM/temp/0.4/build",
+  "command": "g++ -Dmyslam_EXPORTS -I/usr/include/eigen3 -I/home/gould/SLAM/temp/0.4/include -isystem /usr/include/opencv4 -std=c++11 -march=native -O3 -O3 -DNDEBUG -fPIC -o src/CMakeFiles/myslam.dir/g2o_types.cpp.o -c /home/gould/SLAM/temp/0.4/src/g2o_types.cpp",
+  "file": "/home/gould/SLAM/temp/0.4/src/g2o_types.cpp",
+  "output": "/home/gould/SLAM/temp/0.4/build/src/CMakeFiles/myslam.dir/g2o_types.cpp.o"
+},
+{
+  "directory": "/home/gould/SLAM/temp/0.4/build",
+  "command": "g++ -Dmyslam_EXPORTS -I/usr/include/eigen3 -I/home/gould/SLAM/temp/0.4/include -isystem /usr/include/opencv4 -std=c++11 -march=native -O3 -O3 -DNDEBUG -fPIC -o src/CMakeFiles/myslam.dir/visual_odometry.cpp.o -c /home/gould/SLAM/temp/0.4/src/visual_odometry.cpp",
+  "file": "/home/gould/SLAM/temp/0.4/src/visual_odometry.cpp",
+  "output": "/home/gould/SLAM/temp/0.4/build/src/CMakeFiles/myslam.dir/visual_odometry.cpp.o"
+},
+{
+  "directory": "/home/gould/SLAM/temp/0.4/build",
+  "command": "g++ -I/usr/include/eigen3 -I/home/gould/SLAM/temp/0.4/include -isystem /usr/include/opencv4 -std=c++11 -march=native -O3 -O3 -DNDEBUG -o test/CMakeFiles/run_vo.dir/run_vo.cpp.o -c /home/gould/SLAM/temp/0.4/test/run_vo.cpp",
+  "file": "/home/gould/SLAM/temp/0.4/test/run_vo.cpp",
+  "output": "/home/gould/SLAM/temp/0.4/build/test/CMakeFiles/run_vo.dir/run_vo.cpp.o"
+}
+]
